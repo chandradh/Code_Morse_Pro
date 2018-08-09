@@ -8,6 +8,7 @@ from collections import deque
 import numpy as np
 from morse_log import log
 
+
 class Detectmorse():
 
     # Constructor...
